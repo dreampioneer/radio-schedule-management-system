@@ -1,3 +1,7 @@
+<div align="center">
+  <h1 align='center'>SKYWORDSMEDIA - Automated Radio Sponsorship Affidavit System</h1>
+</div>
+
 ## **Overview**
 
 A radio services company manages sponsorship of weather and traffic broadcasts for local radio stations. Currently, staff manually prepare sponsorship schedules in Excel, rebuild the same data in **Lotus 1-2-3** on an aging machine, and then use a legacy program to generate affidavit PDFs for each sponsor. This process is slow, repetitive, error-prone, and dependent on obsolete software.
